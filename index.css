@@ -1,0 +1,57 @@
+.main{
+       display: flex;
+}
+.first{
+       display: flex;
+       position: relative;
+       top:80px;
+       left:8vw;
+       
+   }
+   .logo{
+       color: orange;
+       position: absolute;
+       left: 70vw;
+       top:80px;
+       height: 150px;
+       width: 150;
+   }
+.text{
+       padding-left: 120px;
+       color: black;
+}
+.card{
+       height: 300px;
+       width: 200px;
+       border: 2px solid red;
+       display: inline-block;
+       margin: 100px;
+       text-align: center;
+       border-radius: 15px;
+       color: rgb(201, 64, 22);
+       box-shadow: 5px 5px 5px grey;
+}
+.card1 {
+       font-size: x-large;
+       padding-top: 20px;
+       color: rgb(201, 64, 22);
+}
+.card2{
+       font-size: x-large;
+       padding-top: 20px;
+       color: rgb(201, 64, 22);
+}
+.card3{
+       font-size: x-large;
+       padding-top: 20px;
+       color: rgb(201, 64, 22);
+}
+.crossline{
+       
+       color: rgb(201, 64, 22);
+       text-decoration: line-through;
+}
+.checkbox{
+       font-size: x-large;
+       color: black;
+}
